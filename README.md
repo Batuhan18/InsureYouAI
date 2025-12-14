@@ -1,3 +1,84 @@
+# 🤖 AI-Powered Insurance Backend Project
+
+This project is a **modern backend application** developed with **ASP.NET Core** and **MSSQL**, built around a **real-world insurance domain**. The main goal is to go beyond a classic CRUD system and demonstrate how **AI-driven decision mechanisms**, **real-time interactions**, and **enterprise backend principles** can coexist in a single project.
+
+---
+
+## 🧠 Key Scenarios
+
+📝 AI-powered content generation (blogs / articles)
+💬 Comment management & AI-based moderation
+👤 User analysis & profiling based on comments
+🎨 AI-generated images
+🤖 Live AI Chatbot (SignalR + streaming)
+📊 Insurance policy sales forecasting
+
+---
+
+## 👤 Admin Panel Features
+
+➕ Article & category management
+💬 Comment review and moderation
+📊 AI-driven user & sales analysis
+🤖 Live AI Chat management
+📈 Future policy sales predictions
+
+---
+
+## 👥 User Side Features
+
+🧾 Browse insurance-related content
+💬 Real-time interaction with AI chatbot
+🧠 AI-based insurance plan recommendations
+🎯 Best-match & alternative package suggestions
+
+---
+
+## 🤖 AI Integrations
+
+This project is **not limited to a single AI provider**. Integrated services include:
+
+* OpenAI
+* Google Gemini
+* Anthropic Claude
+* Microsoft Azure AI
+* Stability AI
+* Replicate
+
+All AI providers are implemented in a **replaceable and extensible** manner.
+
+---
+
+## 🧱 Architecture & Technologies
+
+🔧 ASP.NET Core Backend
+💾 MSSQL + Entity Framework Core (Code First)
+🧩 Single-layer structure with **SOLID & Clean Code** principles
+🔁 Dependency Injection
+🪵 Logging & error handling
+
+---
+
+## ⚡ Real-Time Capabilities
+
+* Live AI responses with SignalR
+* Streaming chatbot messages
+* Instant user interaction
+
+---
+
+## 🎯 Project Purpose
+
+This project demonstrates:
+
+✅ AI integration within a real business domain
+✅ Enterprise-grade backend development practices
+✅ A strong, portfolio-ready AI-powered system
+
+---
+
+
+
 <img width="1912" height="840" alt="19" src="https://github.com/user-attachments/assets/df546209-b43c-491b-9f5b-a5ffb0794249" />
 <img width="1913" height="832" alt="18" src="https://github.com/user-attachments/assets/7cb84723-31f7-4dfd-bb49-770da89c4888" />
 <img width="791" height="718" alt="17" src="https://github.com/user-attachments/assets/c306e37c-353b-4749-b629-f532d67433c0" />
